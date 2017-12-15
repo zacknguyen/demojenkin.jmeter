@@ -118,7 +118,7 @@
       <hashTree>
         <GenericController guiclass="LogicControllerGui" testclass="GenericController" testname="Simple Controller" enabled="true"/>
         <hashTree>
-          <JSR223Sampler guiclass="TestBeanGUI" testclass="JSR223Sampler" testname="OSCM - EXC - 0010 - setUp OS Command" enabled="false">
+          <JSR223Sampler guiclass="TestBeanGUI" testclass="JSR223Sampler" testname="OSCM - EXC - 0010 - setUp OS Command" enabled="true">
             <stringProp name="scriptLanguage">groovy</stringProp>
             <stringProp name="parameters"></stringProp>
             <stringProp name="filename"></stringProp>
